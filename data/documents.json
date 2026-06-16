@@ -1,0 +1,62 @@
+[
+  {
+    "id": "doc_01",
+    "text": "Quy trình kết nối mạng VPN nội bộ: Nhân viên truy cập địa chỉ vpn.internal.company.com, đăng nhập bằng tài khoản Active Directory (AD) và nhập mã xác thực OTP từ Google Authenticator. Kết nối VPN chỉ được phép duy trì tối đa 8 tiếng liên tục trước khi tự động ngắt kết nối bảo mật.",
+    "source": "it_support_vpn.txt"
+  },
+  {
+    "id": "doc_02",
+    "text": "Quy định về thời gian làm việc: Công ty làm việc từ thứ Hai đến thứ Sáu, từ 8:30 sáng đến 5:30 chiều, nghỉ trưa từ 12:00 trưa đến 1:00 chiều. Nhân viên đi muộn quá 15 phút cần báo cáo quản lý trực tiếp qua Slack.",
+    "source": "hr_working_hours.txt"
+  },
+  {
+    "id": "doc_03",
+    "text": "Chính sách nghỉ phép năm: Nhân viên chính thức có 12 ngày phép năm được trả lương đầy đủ. Phép năm chưa sử dụng hết sẽ bị hủy bỏ vào ngày 31 tháng 12 hàng năm và không được cộng dồn sang năm sau hoặc quy đổi ra tiền mặt.",
+    "source": "hr_leave_policy.txt"
+  },
+  {
+    "id": "doc_04",
+    "text": "Yêu cầu cấp phát thiết bị mới: Để yêu cầu cấp phát laptop hoặc màn hình mới, nhân viên gửi ticket trên Jira IT Support (dự án ITSUP). Yêu cầu cần được Tech Lead và Giám đốc bộ phận phê duyệt trước khi IT bàn giao thiết bị.",
+    "source": "it_hardware_request.txt"
+  },
+  {
+    "id": "doc_05",
+    "text": "Quy định bảo mật mật khẩu: Mật khẩu tài khoản nội bộ công ty bắt buộc phải có độ dài tối thiểu 12 ký tự, bao gồm ít nhất 1 chữ hoa, 1 chữ thường, 1 chữ số và 1 ký tự đặc biệt. Mật khẩu phải được thay đổi sau mỗi 90 ngày. Không được sử dụng lại 3 mật khẩu gần nhất.",
+    "source": "it_security_policy.txt"
+  },
+  {
+    "id": "doc_06",
+    "text": "Chính sách hỗ trợ chi phí gửi xe: Công ty hỗ trợ 100% chi phí gửi xe máy cho nhân viên chính thức tại hầm của tòa nhà. Nhân viên cần đăng ký biển số xe với bộ phận Hành chính nhân sự vào ngày đầu tiên nhận việc.",
+    "source": "hr_parking_benefits.txt"
+  },
+  {
+    "id": "doc_07",
+    "text": "Quy trình báo cáo lỗi phần mềm dự án: Khi phát hiện bug trên môi trường Staging hoặc Production, nhân viên cần tạo Bug ticket trên Jira kèm theo: tiêu đề lỗi, các bước tái hiện, kết quả mong đợi, kết quả thực tế, và ảnh chụp màn hình lỗi.",
+    "source": "qa_bug_reporting.txt"
+  },
+  {
+    "id": "doc_08",
+    "text": "Quy định bảo mật thông tin dự án: Nhân viên tuyệt đối không được đăng tải mã nguồn dự án lên các kho lưu trữ công khai (public github). Mọi chia sẻ dữ liệu hoặc mã nguồn ra bên ngoài phải được sự đồng ý bằng văn bản của CTO.",
+    "source": "security_code_sharing.txt"
+  },
+  {
+    "id": "doc_09",
+    "text": "Hỗ trợ học tập và thi chứng chỉ: Công ty tài trợ tối đa 5.000.000 VNĐ/năm cho mỗi nhân viên để thi các chứng chỉ chuyên môn liên quan đến công việc. Nhân viên phải cam kết làm việc tại công ty ít nhất 6 tháng sau khi thi đạt chứng chỉ.",
+    "source": "hr_learning_development.txt"
+  },
+  {
+    "id": "doc_10",
+    "text": "Quy trình chi tiêu và thanh toán: Nhân viên mua sắm thiết bị phục vụ công việc dưới 2.000.000 VNĐ cần giữ lại hóa đơn đỏ (VAT) mang tên công ty và điền đơn thanh quyết toán trên phần mềm kế toán Base Workflow trước ngày 25 hàng tháng.",
+    "source": "finance_reimbursement.txt"
+  },
+  {
+    "id": "doc_11",
+    "text": "Chính sách làm việc từ xa (WFA): Nhân viên có thể đăng ký làm việc từ xa tối đa 2 ngày mỗi tuần sau khi được quản lý phê duyệt. Nhân viên làm việc từ xa phải đảm bảo online Slack trong giờ làm việc và tham gia đầy đủ các cuộc họp daily standup.",
+    "source": "hr_wfa_policy.txt"
+  },
+  {
+    "id": "doc_12",
+    "text": "Chính sách nghỉ thai sản đặc biệt: Nhân viên nữ mang thai từ tháng thứ 7 được nghỉ làm sớm 1 tiếng mỗi ngày mà vẫn hưởng nguyên lương. Thời gian nghỉ thai sản chính thức theo luật lao động là 6 tháng.",
+    "source": "hr_maternity_policy.txt"
+  }
+]
